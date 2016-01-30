@@ -1,0 +1,13 @@
+/* CSS for ThreeJSXBlock */
+
+.threejs_block .count {
+    font-weight: bold;
+}
+
+.threejs_block p {
+    cursor: pointer;
+}
+.wrapper-comp-settings .file-uploader .xblock-edit-settings .upload-setting,
+.wrapper-comp-settings .file-uploader .xblock-edit-settings .download-setting {
+    width: 47%;
+}
